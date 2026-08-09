@@ -160,5 +160,3 @@ Fin2Edge transforms financial literacy from **reading about finance** to **exper
 
 By combining AI mentorship, personalization, gamification, and practical simulations, the platform empowers users to build lifelong financial skills in a safe and engaging environment.
 
----
-
