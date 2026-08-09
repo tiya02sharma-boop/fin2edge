@@ -1,5 +1,5 @@
 # 🚀 Fin2Edge
-### AI-Powered Financial Literacy Platform
+###  Financial Literacy Platform
 
 > Empowering users to build smarter financial habits through personalized learning in **Saving, Investing, and Budgeting**.
 
