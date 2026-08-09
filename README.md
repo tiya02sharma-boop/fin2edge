@@ -147,29 +147,10 @@ Fin2Edge helps users:
 ## 🚀 Future Scope
 
 - Multilingual Support
-- Bank Account Integrations
 - AI-Generated Financial Roadmaps
 - Advanced Wealth Planning Tools
 - Credit Score Education
 - Community-Based Financial Learning
-
----
-
-## 📸 Screenshots
-
-_Add screenshots here_
-
-### Landing Page
-![Landing Page](screenshots/landing.png)
-
-### Budget Simulator
-![Budget Simulator](screenshots/budget.png)
-
-### Saashya AI Mentor
-![Saashya AI](screenshots/saashya.png)
-
-### Investment Learning Hub
-![Investment Module](screenshots/investment.png)
 
 ---
 
@@ -181,12 +162,3 @@ By combining AI mentorship, personalization, gamification, and practical simulat
 
 ---
 
-## 👥 Team
-
-Built with ❤️ to make financial education accessible, practical, and engaging for everyone.
-
----
-
-### 💬 Tagline
-
-**"Learn Finance by Living It, Not Just Reading About It."**
